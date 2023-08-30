@@ -12,6 +12,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media1.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif?cid=ecf05e47p0cywybysrbbdljsn9zsf3ygudy6s1d3qaismioj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -42,7 +46,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif?cid=ecf05e47p0cywybysrbbdljsn9zsf3ygudy6s1d3qaismioj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="left">
+  <img src="https://profile-counter.glitch.me/mohamadalikh96/count.svg?"  />
+</div>
 
 ###
 
@@ -66,6 +72,6 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/mohamadalikh96/count.svg?"  />
+<img src="https://raw.githubusercontent.com/mohamadalikh96/mohamadalikh96/output/snake.svg" alt="Snake animation" />
 
 ###
